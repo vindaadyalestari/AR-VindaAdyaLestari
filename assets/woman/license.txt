@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rabbit Warrior
+* source:	https://sketchfab.com/3d-models/rabbit-warrior-e5b63201f4b9438e803375de111b1a53
+* author:	Carly.Simmons (https://sketchfab.com/Carly.Simmons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rabbit Warrior" (https://sketchfab.com/3d-models/rabbit-warrior-e5b63201f4b9438e803375de111b1a53) by Carly.Simmons (https://sketchfab.com/Carly.Simmons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
