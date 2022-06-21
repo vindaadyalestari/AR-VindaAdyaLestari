@@ -9,7 +9,7 @@
     <script src="./js/aframe/aframe.min.js"></script>
     <!-- Library untuk AR yang melakukan pengenalan marker dan menyematkan kamera-->
     <script src="./js/arjs/aframe-ar.js"></script>
-    <title>WebAR Vinda Adya Lestari : Multiple Marker</title>
+    <title>WebAR Vinda Adya Lestari  : Multiple Marker</title>
     <style>
         /* Mengatur posisi elemen pada halaman */
         
@@ -60,7 +60,7 @@
 
         <!-- handle hiro marker -->
         <a-marker preset="hiro">
-          <a-entity gltf-model="#woman" animation-mixer></a-entity>
+          <a-entity gltf-model="#woman" scale="0.2 0.2 0.2" animation-mixer></a-entity>
         </a-marker>
 
         <!-- handle matrix marker -->
@@ -72,7 +72,7 @@
 
         <!-- handle kanji marker -->
         <a-marker preset="kanji">
-            <a-entity gltf-model="#woman"></a-entity>
+            <a-entity gltf-model="#woman" scale="0.2 0.2 0.2" ></a-entity>
         </a-marker>
 
         <!-- add a simple camera -->
